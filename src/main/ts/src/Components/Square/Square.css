@@ -1,0 +1,30 @@
+.c-square {
+    border: 1px solid black;
+    cursor: pointer;
+    padding: 17px;
+
+    transition-duration: 150ms;
+    transition-property: background;
+    transition-timing-function: linear;
+}
+
+.c-square--empty {
+    background-color: white;
+}
+
+.c-square--start {
+    background-color: green;
+}
+
+.c-square--finish {
+    background-color: red;
+}
+
+.c-square--wall {
+    background-color: gray;
+}
+
+.c-square--path {
+    background-color: blue;
+}
+
