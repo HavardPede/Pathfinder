@@ -3,7 +3,7 @@
 This application is an implementation of the A* pathfinding algorithm with a graphical user interface. 
 The application uses React for the frontend and Java Spring to compute the path in the backend. Frontend and backend communicates through a REST API.
 
-![image](https://user-images.githubusercontent.com/30959515/120930375-eca4d280-c6e4-11eb-9088-3d88f9f20041.png)
+![image](https://user-images.githubusercontent.com/30959515/120930637-16aac480-c6e6-11eb-92a6-e3fd3d49a348.png)
 
 
 ## Future implementation
